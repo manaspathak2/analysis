@@ -1,0 +1,401 @@
+review_id,product_id,user_id,review_text,rating,user_review_count
+1,P1,U145,Best best best,2,56
+2,P13,U64,Super super super,5,57
+3,P13,U67,Super super super,1,29
+4,P2,U49,Awesome awesome awesome,5,51
+5,P3,U4,Worth buying,1,6
+6,P6,U111,Not worth money,5,1
+7,P16,U5,Super super super,4,25
+8,P6,U63,Highly recommended,3,4
+9,P5,U80,Super super super,2,46
+10,P3,U104,Fantastic fantastic,3,46
+11,P14,U140,Waste of money,2,6
+12,P13,U75,Super super super,1,41
+13,P20,U77,Amazing quality,4,5
+14,P12,U10,Waste of money,5,4
+15,P2,U138,Worth buying,4,1
+16,P16,U98,Too good too good,5,44
+17,P18,U42,Too good too good,2,43
+18,P11,U44,Waste of money,3,1
+19,P10,U17,Awesome awesome awesome,3,57
+20,P8,U113,Too good too good,1,55
+21,P13,U31,Bad product,2,3
+22,P8,U49,Super super super,3,36
+23,P13,U91,Super super super,1,28
+24,P10,U121,Good value for money,2,2
+25,P8,U95,Best best best,2,51
+26,P14,U68,Awesome awesome awesome,4,40
+27,P1,U35,Amazing quality,3,1
+28,P5,U53,Worth buying,1,5
+29,P8,U30,Nice product,3,4
+30,P2,U78,Poor quality,4,5
+31,P1,U59,Worth buying,5,2
+32,P9,U53,Poor quality,4,2
+33,P8,U112,Awesome awesome awesome,2,31
+34,P17,U50,Not worth money,3,4
+35,P2,U85,Super super super,2,55
+36,P3,U62,Nice product,3,4
+37,P16,U51,Awesome awesome awesome,5,51
+38,P19,U146,Fantastic fantastic,1,31
+39,P18,U107,Waste of money,1,1
+40,P6,U96,Too good too good,4,56
+41,P20,U149,Very good quality,4,5
+42,P9,U144,Best best best,4,46
+43,P17,U7,Very disappointed,5,5
+44,P20,U66,Too good too good,4,58
+45,P2,U48,Fantastic fantastic,3,58
+46,P15,U69,Too good too good,4,35
+47,P7,U93,Awesome awesome awesome,4,40
+48,P14,U14,Bad product,2,2
+49,P19,U27,Excellent product,4,2
+50,P10,U36,Super super super,5,37
+51,P14,U81,Amazing quality,3,1
+52,P2,U27,Super super super,2,35
+53,P6,U56,Best best best,5,37
+54,P8,U66,Not worth money,4,4
+55,P11,U23,Satisfied with purchase,4,3
+56,P10,U22,Worst experience,3,4
+57,P18,U36,Awesome awesome awesome,2,35
+58,P20,U89,Highly recommended,3,6
+59,P13,U21,Amazing quality,2,3
+60,P5,U69,Too good too good,5,38
+61,P16,U40,Super super super,4,28
+62,P6,U25,Super super super,2,50
+63,P3,U19,Bad product,3,6
+64,P18,U88,Awesome awesome awesome,2,43
+65,P10,U130,Good value for money,2,5
+66,P19,U145,Best best best,5,34
+67,P4,U34,Fantastic fantastic,2,27
+68,P15,U115,Awesome awesome awesome,1,37
+69,P16,U79,Best best best,1,28
+70,P5,U144,Best best best,3,28
+71,P11,U25,Very disappointed,5,1
+72,P9,U20,Too good too good,2,55
+73,P20,U53,Best best best,2,60
+74,P6,U148,Too good too good,5,41
+75,P7,U102,Awesome awesome awesome,2,42
+76,P6,U112,Awesome awesome awesome,5,57
+77,P9,U117,Too good too good,5,27
+78,P5,U111,Highly recommended,5,3
+79,P6,U132,Bad product,2,5
+80,P13,U103,Nice product,2,2
+81,P4,U110,Amazing quality,3,2
+82,P14,U8,Worst experience,5,2
+83,P10,U82,Super super super,2,54
+84,P20,U120,Highly recommended,4,3
+85,P16,U26,Bad product,4,5
+86,P18,U69,Too good too good,3,35
+87,P8,U23,Too good too good,5,25
+88,P8,U75,Super super super,2,34
+89,P7,U128,Waste of money,3,4
+90,P14,U137,Nice product,5,5
+91,P13,U149,Nice product,4,4
+92,P20,U144,Too good too good,3,36
+93,P15,U98,Best best best,3,33
+94,P4,U55,Nice product,2,1
+95,P16,U63,Worth buying,2,2
+96,P4,U46,Super super super,1,45
+97,P4,U138,Super super super,4,58
+98,P1,U89,Bad product,1,2
+99,P9,U114,Not worth money,4,6
+100,P15,U115,Not worth money,5,3
+101,P16,U7,Excellent product,3,1
+102,P14,U121,Best best best,3,26
+103,P13,U111,Poor quality,3,6
+104,P19,U75,Amazing quality,5,4
+105,P3,U89,Nice product,5,2
+106,P19,U80,Nice product,5,4
+107,P19,U40,Bad product,5,2
+108,P15,U96,Fantastic fantastic,4,55
+109,P4,U116,Good value for money,3,3
+110,P13,U54,Satisfied with purchase,2,4
+111,P13,U4,Worst experience,1,1
+112,P15,U135,Good value for money,2,1
+113,P5,U24,Worst experience,4,6
+114,P8,U65,Amazing quality,5,6
+115,P12,U146,Good value for money,1,4
+116,P11,U24,Fantastic fantastic,5,47
+117,P1,U42,Worst experience,1,3
+118,P2,U9,Good value for money,1,5
+119,P3,U79,Super super super,5,52
+120,P2,U31,Good value for money,1,1
+121,P20,U79,Highly recommended,5,6
+122,P3,U104,Very good quality,3,4
+123,P14,U68,Fantastic fantastic,4,43
+124,P2,U111,Too good too good,2,44
+125,P20,U87,Too good too good,5,25
+126,P10,U121,Poor quality,4,1
+127,P10,U144,Worst experience,1,3
+128,P3,U142,Too good too good,5,39
+129,P19,U3,Too good too good,2,45
+130,P16,U101,Too good too good,2,37
+131,P1,U118,Best best best,3,33
+132,P15,U77,Super super super,1,56
+133,P15,U92,Nice product,4,2
+134,P18,U110,Awesome awesome awesome,4,42
+135,P18,U15,Awesome awesome awesome,3,34
+136,P2,U113,Very good quality,1,2
+137,P5,U33,Fantastic fantastic,5,57
+138,P17,U128,Amazing quality,2,2
+139,P10,U93,Poor quality,3,4
+140,P6,U33,Nice product,3,3
+141,P19,U149,Best best best,2,34
+142,P6,U118,Super super super,1,34
+143,P11,U4,Very good quality,3,1
+144,P13,U12,Bad product,2,4
+145,P2,U135,Awesome awesome awesome,2,37
+146,P3,U127,Worst experience,3,3
+147,P5,U113,Super super super,3,55
+148,P17,U47,Too good too good,4,31
+149,P1,U6,Super super super,3,60
+150,P3,U132,Best best best,4,51
+151,P2,U117,Very disappointed,2,5
+152,P17,U137,Poor quality,4,6
+153,P15,U48,Best best best,4,54
+154,P15,U147,Super super super,5,27
+155,P15,U145,Very disappointed,4,5
+156,P12,U35,Fantastic fantastic,3,26
+157,P20,U130,Super super super,4,52
+158,P14,U130,Worth buying,3,2
+159,P17,U40,Super super super,3,46
+160,P1,U136,Very disappointed,3,1
+161,P4,U133,Awesome awesome awesome,2,58
+162,P15,U65,Awesome awesome awesome,1,48
+163,P10,U143,Very disappointed,3,1
+164,P1,U43,Amazing quality,1,1
+165,P17,U64,Terrible product,1,6
+166,P13,U107,Super super super,3,40
+167,P4,U146,Nice product,1,5
+168,P14,U30,Bad product,1,4
+169,P10,U14,Best best best,1,54
+170,P2,U8,Terrible product,1,4
+171,P18,U110,Too good too good,4,57
+172,P16,U91,Waste of money,5,2
+173,P20,U34,Nice product,2,2
+174,P16,U38,Super super super,5,59
+175,P17,U97,Super super super,5,60
+176,P20,U67,Super super super,4,42
+177,P19,U10,Too good too good,5,45
+178,P7,U29,Good value for money,2,4
+179,P7,U99,Not worth money,2,3
+180,P15,U86,Super super super,4,46
+181,P8,U108,Satisfied with purchase,3,3
+182,P10,U109,Satisfied with purchase,4,4
+183,P3,U52,Terrible product,4,1
+184,P16,U144,Super super super,3,53
+185,P18,U70,Worst experience,5,6
+186,P14,U141,Too good too good,5,38
+187,P20,U133,Not worth money,5,1
+188,P4,U16,Best best best,4,30
+189,P2,U99,Worst experience,3,6
+190,P17,U143,Nice product,5,5
+191,P6,U107,Amazing quality,5,1
+192,P12,U133,Too good too good,2,48
+193,P9,U36,Best best best,3,31
+194,P1,U132,Worth buying,2,3
+195,P11,U96,Awesome awesome awesome,1,40
+196,P5,U44,Too good too good,3,37
+197,P9,U56,Fantastic fantastic,3,59
+198,P10,U53,Super super super,2,39
+199,P14,U23,Fantastic fantastic,2,51
+200,P3,U64,Terrible product,2,1
+201,P19,U82,Poor quality,2,2
+202,P11,U51,Poor quality,2,3
+203,P18,U58,Bad product,1,6
+204,P3,U93,Fantastic fantastic,5,53
+205,P18,U97,Very disappointed,3,5
+206,P7,U106,Bad product,2,4
+207,P2,U100,Fantastic fantastic,1,50
+208,P16,U67,Too good too good,5,31
+209,P5,U89,Poor quality,5,2
+210,P14,U72,Satisfied with purchase,1,3
+211,P6,U70,Best best best,5,53
+212,P4,U64,Good value for money,1,6
+213,P13,U89,Super super super,1,60
+214,P10,U20,Awesome awesome awesome,1,55
+215,P11,U119,Bad product,1,1
+216,P1,U53,Fantastic fantastic,5,25
+217,P16,U110,Too good too good,3,38
+218,P3,U88,Worst experience,5,6
+219,P20,U10,Best best best,1,33
+220,P11,U127,Super super super,1,31
+221,P12,U56,Awesome awesome awesome,1,32
+222,P6,U92,Good value for money,2,1
+223,P4,U47,Best best best,1,38
+224,P10,U140,Awesome awesome awesome,5,46
+225,P3,U17,Fantastic fantastic,2,47
+226,P15,U147,Satisfied with purchase,3,1
+227,P2,U106,Best best best,5,26
+228,P9,U23,Awesome awesome awesome,3,48
+229,P20,U8,Very disappointed,2,1
+230,P7,U6,Not worth money,3,4
+231,P4,U141,Awesome awesome awesome,4,46
+232,P3,U27,Good value for money,1,1
+233,P7,U2,Super super super,5,28
+234,P12,U24,Not worth money,5,5
+235,P19,U91,Not worth money,1,5
+236,P4,U129,Bad product,3,1
+237,P4,U8,Terrible product,1,5
+238,P3,U6,Bad product,5,5
+239,P20,U102,Excellent product,1,2
+240,P7,U101,Best best best,5,40
+241,P5,U104,Best best best,4,55
+242,P7,U143,Very good quality,4,5
+243,P3,U36,Super super super,1,55
+244,P3,U25,Terrible product,2,5
+245,P10,U86,Terrible product,4,6
+246,P4,U130,Poor quality,3,2
+247,P13,U108,Fantastic fantastic,1,58
+248,P6,U114,Worth buying,1,5
+249,P17,U18,Very good quality,5,4
+250,P13,U103,Good value for money,1,5
+251,P11,U118,Awesome awesome awesome,2,38
+252,P1,U94,Highly recommended,3,2
+253,P15,U133,Good value for money,4,1
+254,P1,U104,Awesome awesome awesome,3,54
+255,P19,U68,Amazing quality,4,4
+256,P2,U44,Too good too good,2,52
+257,P9,U64,Very good quality,5,6
+258,P18,U16,Fantastic fantastic,1,43
+259,P3,U30,Too good too good,3,56
+260,P16,U35,Super super super,3,28
+261,P16,U14,Too good too good,4,43
+262,P17,U29,Worst experience,1,5
+263,P13,U84,Poor quality,4,2
+264,P1,U17,Best best best,5,31
+265,P10,U75,Very good quality,5,4
+266,P3,U97,Nice product,1,1
+267,P11,U36,Too good too good,1,32
+268,P19,U133,Not worth money,2,5
+269,P19,U57,Not worth money,5,1
+270,P20,U41,Too good too good,3,29
+271,P4,U84,Highly recommended,2,3
+272,P16,U120,Good value for money,4,2
+273,P13,U124,Poor quality,4,2
+274,P11,U83,Highly recommended,3,3
+275,P4,U54,Too good too good,5,52
+276,P18,U25,Awesome awesome awesome,1,45
+277,P12,U71,Super super super,2,33
+278,P7,U40,Awesome awesome awesome,2,56
+279,P7,U122,Highly recommended,5,2
+280,P18,U41,Best best best,3,40
+281,P15,U74,Awesome awesome awesome,2,54
+282,P12,U1,Nice product,3,3
+283,P3,U89,Satisfied with purchase,2,1
+284,P7,U55,Nice product,4,5
+285,P4,U129,Worst experience,5,2
+286,P9,U100,Worth buying,5,5
+287,P6,U26,Not worth money,1,2
+288,P2,U28,Best best best,4,57
+289,P17,U144,Awesome awesome awesome,3,44
+290,P4,U95,Nice product,5,2
+291,P19,U27,Too good too good,3,48
+292,P13,U73,Very disappointed,4,2
+293,P16,U7,Waste of money,4,2
+294,P10,U41,Waste of money,2,5
+295,P17,U42,Very good quality,4,5
+296,P1,U47,Poor quality,4,4
+297,P8,U21,Best best best,1,44
+298,P2,U74,Super super super,1,34
+299,P17,U102,Very good quality,3,1
+300,P9,U59,Satisfied with purchase,4,2
+301,P9,U99,Super super super,4,51
+302,P7,U82,Highly recommended,4,4
+303,P2,U40,Super super super,1,40
+304,P12,U80,Nice product,2,2
+305,P5,U30,Fantastic fantastic,2,37
+306,P10,U65,Best best best,3,32
+307,P19,U70,Too good too good,3,46
+308,P6,U63,Awesome awesome awesome,5,58
+309,P12,U32,Excellent product,2,4
+310,P3,U45,Super super super,4,39
+311,P10,U136,Too good too good,1,41
+312,P15,U58,Terrible product,1,3
+313,P4,U128,Good value for money,5,6
+314,P19,U119,Super super super,3,43
+315,P13,U57,Fantastic fantastic,5,58
+316,P7,U13,Awesome awesome awesome,4,51
+317,P15,U36,Too good too good,1,42
+318,P19,U82,Best best best,2,45
+319,P15,U79,Best best best,2,34
+320,P17,U1,Best best best,5,26
+321,P16,U45,Fantastic fantastic,4,58
+322,P17,U51,Awesome awesome awesome,5,49
+323,P3,U135,Fantastic fantastic,4,31
+324,P12,U86,Best best best,2,38
+325,P7,U145,Best best best,3,37
+326,P20,U72,Super super super,5,31
+327,P20,U100,Super super super,2,59
+328,P20,U82,Fantastic fantastic,3,44
+329,P19,U53,Highly recommended,3,2
+330,P14,U37,Best best best,5,56
+331,P18,U108,Fantastic fantastic,2,45
+332,P5,U84,Excellent product,5,2
+333,P12,U6,Fantastic fantastic,4,44
+334,P9,U107,Awesome awesome awesome,3,54
+335,P8,U9,Nice product,2,2
+336,P3,U3,Fantastic fantastic,5,45
+337,P12,U19,Amazing quality,3,5
+338,P16,U46,Best best best,5,38
+339,P19,U124,Best best best,1,44
+340,P12,U75,Super super super,5,33
+341,P10,U123,Too good too good,1,36
+342,P15,U128,Best best best,3,25
+343,P5,U125,Fantastic fantastic,3,51
+344,P4,U118,Awesome awesome awesome,2,27
+345,P4,U98,Fantastic fantastic,5,26
+346,P1,U50,Not worth money,5,4
+347,P10,U31,Awesome awesome awesome,2,46
+348,P12,U58,Fantastic fantastic,2,54
+349,P17,U113,Poor quality,1,1
+350,P17,U108,Amazing quality,4,2
+351,P16,U80,Very disappointed,2,3
+352,P16,U5,Too good too good,4,29
+353,P3,U141,Best best best,4,46
+354,P13,U102,Too good too good,1,26
+355,P14,U58,Good value for money,2,6
+356,P14,U84,Awesome awesome awesome,3,36
+357,P10,U49,Too good too good,1,45
+358,P12,U106,Worst experience,2,4
+359,P17,U75,Highly recommended,3,6
+360,P14,U36,Too good too good,4,35
+361,P15,U85,Awesome awesome awesome,3,52
+362,P10,U119,Too good too good,5,39
+363,P6,U111,Best best best,2,56
+364,P19,U85,Worst experience,1,5
+365,P10,U108,Good value for money,3,5
+366,P7,U10,Satisfied with purchase,3,1
+367,P2,U127,Too good too good,5,40
+368,P2,U93,Super super super,1,29
+369,P12,U144,Worst experience,5,6
+370,P3,U145,Excellent product,4,1
+371,P7,U18,Too good too good,2,30
+372,P11,U62,Bad product,4,1
+373,P16,U118,Awesome awesome awesome,2,35
+374,P7,U132,Nice product,2,6
+375,P17,U66,Worth buying,2,3
+376,P2,U20,Super super super,1,37
+377,P10,U92,Satisfied with purchase,2,1
+378,P16,U129,Satisfied with purchase,2,6
+379,P16,U8,Best best best,5,44
+380,P5,U44,Super super super,3,59
+381,P15,U45,Very good quality,4,1
+382,P7,U102,Best best best,5,44
+383,P18,U106,Nice product,3,4
+384,P20,U68,Super super super,1,49
+385,P13,U107,Terrible product,4,5
+386,P5,U69,Very good quality,2,6
+387,P20,U136,Best best best,5,58
+388,P16,U5,Super super super,3,44
+389,P3,U87,Poor quality,2,6
+390,P9,U37,Very good quality,4,6
+391,P19,U131,Fantastic fantastic,1,44
+392,P8,U143,Satisfied with purchase,3,3
+393,P2,U40,Super super super,2,43
+394,P7,U83,Poor quality,1,5
+395,P3,U65,Terrible product,3,5
+396,P14,U135,Terrible product,2,4
+397,P6,U34,Fantastic fantastic,4,32
+398,P4,U148,Worth buying,5,3
+399,P13,U94,Fantastic fantastic,3,26
+400,P9,U17,Worth buying,4,3
